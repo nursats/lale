@@ -27,13 +27,14 @@ body {
     display: block;
     margin: 10px auto;
     padding: 20px;
-    width: 80%;
-    max-width: 400px;
+    width: 90%; /* Adjusted to 90% for longer buttons */
+    max-width: 600px; /* Increased max-width for longer buttons */
     background-color: #aa5fcf;
     color: #fff;
     text-decoration: none;
     font-size: 1.2em;
     border-radius: 10px;
+    text-align: center;
 }
 .section-title {
     font-size: 1.8em;

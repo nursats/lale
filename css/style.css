@@ -21,12 +21,12 @@ body {
     font-size: 1.2em;
 }
 .button-container {
-    margin: 20px 0;
+    margin: 10px 0;
 }
 .button-container a {
     display: block;
     margin: 10px auto;
-    padding: 25px;
+    padding: 20px;
     width: 80%;
     max-width: 400px;
     background-color: #aa5fcf;

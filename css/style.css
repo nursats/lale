@@ -1,6 +1,6 @@
 body {
     font-family: 'Manrope', sans-serif;
-    background-color: #d764f4;
+    background-color: #d9aae7;
     color: #fff;
     text-align: center;
     margin: 0;
@@ -35,7 +35,7 @@ body {
     padding: 20px;
     width: 90%;
     max-width: 600px;
-    background-color: #aa5fcf;
+    background-color: #bd7bdf;
     color: #fff;
     text-decoration: none;
     font-size: 1.2em;
@@ -57,7 +57,7 @@ body {
 }
 
 .card {
-    background-color: #d272f5;
+    background-color: #ce8de6;
     width: 85%; /* Increase width to take more horizontal space */
     max-width: 1000px; /* Limit max-width for large screens */
     border-radius: 10px;
